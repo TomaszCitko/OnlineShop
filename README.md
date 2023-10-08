@@ -11,6 +11,10 @@ Online shopping has become an integral part of our lives, and this project aims 
 - Secure checkout
 - Order history tracking
 
+## Preview
+
+https://github.com/TomaszCitko/OnlineShop/assets/76453068/279ac847-3e76-4d12-816f-1c34d9576349
+
 ## Built With
 
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
